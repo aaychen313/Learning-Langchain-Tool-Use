@@ -1,0 +1,22 @@
+{
+  "name": "learning-langchain-tool-use",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@langchain/core": "^0.3.61",
+    "@langchain/google-genai": "^0.2.14",
+    "dotenv": "^17.0.1",
+    "langchain": "^0.3.29",
+    "node-fetch": "^3.3.2",
+    "openai": "^5.8.2",
+    "zod": "^3.25.67"
+  }
+}
